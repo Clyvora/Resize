@@ -1,0 +1,11 @@
+{
+  "name": "Clyvora Resize",
+  "short_name": "Resize",
+  "description": "Resize and convert images privately in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0a09",
+  "theme_color": "#0b0a09",
+  "icons": [{ "src": "/favicon.png", "sizes": "128x128", "type": "image/png" }]
+}
+
