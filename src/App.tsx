@@ -130,7 +130,7 @@ export default function App() {
 
   return <main>
     <header>
-      <button className="brand" type="button" onClick={reset} aria-label="Clyvora Resize home"><span>R</span>Clyvora <strong>Resize</strong></button>
+      <button className="brand" type="button" onClick={reset} aria-label="Clyvora Resize home"><img src="/favicon.png" alt="" width="34" height="34" decoding="async" /><span>Clyvora <strong>Resize</strong></span></button>
       <span className="privacy-badge">Local image processing</span>
     </header>
 

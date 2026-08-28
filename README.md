@@ -4,6 +4,8 @@
 
 Clyvora Resize is a focused local PNG, JPEG, and WebP resizer, compressor, and converter. It processes one image at a time and has no image-upload backend.
 
+![Clyvora Resize social preview](public/og.png)
+
 ## Limits
 
 - Input file: 25 MiB
